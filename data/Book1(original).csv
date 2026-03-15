@@ -1,0 +1,338 @@
+Country,Gender,age_group,Educational Qualification,Frequency,"AI Dependency [Without AI support, I feel unsure about the quality of my academic work.]",AI Dependency [Using AI makes me feel more relevant and competent in my studies.],AI Dependency [I rely on AI-generated suggestions to confirm whether my ideas are good enough.],AI Dependency [I worry that my performance will suffer if I donot use AI tools.],Alienation [AL1: Submitting AI-assisted work makes me feel less proud of my learning achievements],Alienation [AL2: I worry that AI-generated assignments donot truly reflect what I've learned.],Alienation [AL3: Using AI for coursework makes learning feel less intellectually rewarding.],Alienation [AL4: I develop fewer academic skills when I rely on AI to complete assignments.],"Alienation [AL5: When AI can write essays or solve problems, I question why I need to learn these skills.]",Alienation [AL6: AI capabilities make my own academic growth feel less valuable.],Alienation [AL7: AI tools reduce meaningful feedback from my teachers.],Alienation [AL8: Using AI for group work makes collaboration feel less authentic.],Communication [Comm1: I can clearly express my academic ideas in writing without relying on AI tools.],Communication [Comm2: I feel confident when explaining complex topics to others in class discussions or presentations.],"Communication [Comm3: I adapt my communication style depending on the audience (e.g., peers, teachers, or formal reports).]",Collaboration [Collab1: I prefer working alone with AI tools rather than discussing ideas with peers.],Collaboration [Collab2: I rely on AI to complete my share of group tasks instead of coordinating with my team.],Collaboration [Collab3: Using AI tools has made me less likely to seek help from classmates.],Creative Thinking [Creat1: I use AI tools even when I could think of original ideas myself.],Creative Thinking [Creat2: Relying on AI has made it harder for me to come up with creative solutions on my own.],Creative Thinking [Creat3: My assignments are less original because I adapt AI-generated ideas instead of developing my own.],Critical Thinking [Crit1: I rarely question AI-generated content even if it sounds suspicious.],"Critical Thinking [Crit2: Since using AI tools, I tend to accept answers at face value rather than verify them.]",Critical Thinking [Crit3: I find myself thinking less critically because AI often gives me quick answers.],"Problem-Solving [Prob1: When facing a problem, I go to AI tools before trying to solve it myself.]",Problem-Solving [Prob2: I have become less persistent in solving academic challenges because I know AI will help.],Problem-Solving [Prob3: I often skip brainstorming or planning because I expect AI to do most of the work.],Self-Confidence [SC1: I doubt my ability to complete tasks without AI support.],Self-Confidence [SC2: I rely on AI because I donot trust myself to get the right answers.],"Self-Confidence [SC3: The more I use AI, the less confident I feel doing academic work on my own.]"
+Bangladesh,Male,25-34,Master Degree,Very often,5,5,5,5,5,4,4,3,3,5,4,4,4,4,4,5,4,4,4,4,4,4,4,4,5,4,5,5,5,5
+Argentina,Male,18-24,High School Diploma,Sometimes,5,4,5,5,4,2,4,4,5,4,4,2,4,4,4,4,5,5,4,2,2,4,5,4,4,2,3,4,5,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,2,5,5,5,3,4,4,4,5,5,5,1,1,5,5,5,1,5,3,1,3,5,4,3,3,3,3,1,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,4,4,4,4,4,4,5,5,5,4,4,4,5,5,5,5,5,5,5,4,5,5,5,5,4,5,5
+Bangladesh,Female,25-34,Master Degree,Often,4,5,4,4,4,5,4,4,2,4,4,4,2,4,4,2,3,4,4,4,4,4,2,4,5,4,4,4,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Sometimes,4,4,4,4,4,5,4,4,4,4,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Sometimes,4,5,5,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Bangladesh,Male,18-24,High School Diploma,Sometimes,4,4,3,3,3,3,2,4,4,3,3,4,4,3,5,2,3,3,2,3,2,4,2,4,4,4,4,3,4,3
+Bangladesh,Male,25-34,Bachelor Degree,Rarely,3,5,4,3,3,3,2,4,2,2,4,2,4,4,4,4,4,4,4,4,2,4,4,5,5,5,5,3,3,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,5,4,4,4,4,4,4,2,2,3,1,4,4,4,4,4,4,4,4,4,4,4,3,4,4,3,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,5,5,4,4,5,5,5,4,4,5,5,4,4,5,4,5,4,5,5,4,4,5,5,5,4,5,5,5,4
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,2,4,4,5,4,5,4,5,1,4,4,2,3,3,4,4,3,2,4,3,2,3,3,2,4,3,1,2,3,2
+Bangladesh,Male,25-34,Bachelor Degree,Often,4,5,4,5,4,5,5,5,4,5,4,4,2,4,4,4,4,4,3,3,3,3,3,3,4,5,5,3,4,5
+Bangladesh,Male,25-34,Master Degree,Often,4,4,4,4,3,3,4,4,4,4,3,3,2,3,4,4,3,4,4,4,4,3,3,3,4,4,3,3,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,2,2,5,5,4,4,1,3,3,1,5,5,5,2,2,4,2,3,4,4,1,4,1,2,1,2,1,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,5,4,4,5,4,3,5,1,5,2,4,5,5,4,3,3,4,5,5,4,4,5,4,5,4,5,4,5,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Very often,4,5,5,4,4,4,4,4,4,4,4,4,3,4,4,3,4,4,3,3,2,3,4,4,2,3,2,3,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,5,5,3,4,3,4,5,3,3,1,2,2,5,4,2,1,2,4,4,5,1,2,3,3,4,4,5,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,3,3,3,4,4,4,4,3,5,5,5,4,4,4,4,3,3,3,3,3,5,4,4,3,3,3,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,4,5,4,4,2,3,4,2,2,3,3,4,3,4,4,2,5,2,4,3,5,3,5,5,4,4,4,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,5,4,5,2,4,5,4,3,3,4,4,4,3,4,4,5,5,3,2,3,4,5,5,5,4,5,2,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Rarely,3,1,2,2,1,4,4,4,4,3,5,4,3,5,4,3,5,4,5,4,4,3,4,4,4,4,5,3,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,4,4,3,2,3,2,3,3,2,4,2,4,3,4,2,2,4,3,2,2,2,3,4,3,4,4,2,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,5,5,5,3,3,4,3,3,4,4,4,4,4,4,4,4,4,3,3,3,5,5,5,3,3,4,3,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,3,4,2,2,2,2,2,4,2,2,2,2,3,3,3,2,3,4,2,2,3,4,2,3,4,3,2,2,5
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,5,4,2,4,3,4,5,4,4,4,4,1,4,4,4,4,4,4,4,4,1,4,4,1,4,3,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,1,4,4,4,4,4,4,1,4,4,4,1,1,1,2,2,3,2,2,3,2,2,2,4,4,4,2,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,4,4,4,4,4,4,4,3,3,3,3,4,4,4,2,4,2,4,4,3,4,3,4,4,3,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,4,5,4,4,5,4,4,5,4,5,4,5,4,4,5,4,4,5,4,4,5,5,5,5,5,4,4,4
+Bangladesh,Male,18-24,High School Diploma,Often,3,4,4,4,3,3,2,3,4,3,3,3,2,3,3,4,3,4,2,3,3,3,3,4,2,3,3,3,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Often,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,4,2,3,3,2,3,4,2,3,3,4,3,5,2,3,4,4,2,2,2,1,2,2,3,3,1,2,5
+Bangladesh,Male,25-34,Bachelor Degree,Often,4,4,2,2,2,3,2,2,4,3,4,4,2,3,3,2,2,4,2,4,4,2,2,4,2,4,2,2,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,3,4,5,5,4,3,4,5,4,4,3,3,4,4,3,4,4,5,3,3,4,5,3,3,4,5,3,4
+Bangladesh,Male,18-24,High School Diploma,Often,4,5,5,3,4,5,3,4,3,4,4,4,4,1,3,5,4,4,4,4,5,5,5,4,5,5,4,2,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Very often,4,5,5,4,4,2,2,4,5,4,2,2,4,5,5,4,2,4,2,4,5,5,3,5,2,5,4,1,1,3
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,3,4,3,5,4,5,4,4,3,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,2,2,4,4,4,4,3,3,3,3,4,4,5,4,3,5,5,4,4,4,5,4,4,5,4,2,5,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,3,4,3,4,4,3,4,4,4,3,3,4,4,2,2,2,3,2,4,3,2,3,2,2,2,3,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,4,4,4,4,2,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,2,4,4,4,4,4,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,4,5,3,4,4,4,4,4,3,3,3,3,4,3,3,4,3,3,4,3,3,4,3,3,4,3,3,4,3
+Bangladesh,Male,25-34,Bachelor Degree,Very often,2,4,4,3,4,4,4,3,4,3,4,4,4,4,3,2,3,4,4,4,3,4,4,3,3,4,3,2,2,3
+Bangladesh,Female,25-34,Bachelor Degree,Very often,4,5,5,4,3,3,2,4,3,2,2,2,4,4,4,4,3,4,4,3,2,3,3,2,2,3,2,2,2,2
+Bangladesh,Male,25-34,Bachelor Degree,Often,3,5,4,3,5,5,3,4,5,4,2,3,3,4,5,4,4,2,4,4,4,3,4,5,5,3,5,3,1,2
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,4,2,5,4,4,4,1,4,1,4,3,4,3,4,3,2,2,5,4,2,4,5,2,4,2,2,3,4
+Bangladesh,Female,25-34,Bachelor Degree,Often,4,4,4,4,4,4,4,3,4,4,3,4,3,2,4,4,5,5,5,5,4,5,4,3,5,5,4,5,4,5
+Bangladesh,Male,25-34,Bachelor Degree,Very often,5,4,4,3,5,3,3,4,4,3,4,3,4,4,5,4,4,5,4,3,3,4,4,5,3,4,4,2,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,2,4,4,3,4,2,4,4,3,4,4,4,4,4,3,4,4,4,2,2,2,2,2,2,4,4,2,2,2,2
+Bangladesh,Male,18-24,High School Diploma,Very often,3,4,2,3,4,4,4,3,4,2,3,4,4,4,4,2,2,2,3,2,2,4,2,3,3,3,2,2,2,2
+Bangladesh,Female,25-34,Bachelor Degree,Very often,4,5,4,5,5,4,4,5,2,5,2,4,2,4,4,4,5,4,5,5,5,4,5,4,4,5,5,4,2,5
+Bangladesh,Male,25-34,Master Degree,Sometimes,2,4,4,2,3,1,2,2,2,3,2,2,4,4,4,1,2,2,3,2,2,3,2,2,3,2,2,2,3,2
+Bangladesh,Male,25-34,Bachelor Degree,Often,3,3,2,2,2,3,2,3,2,3,2,3,3,3,3,3,4,4,4,4,3,4,4,4,3,3,3,4,4,3
+Bangladesh,Male,18-24,High School Diploma,Very often,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,2,1,2,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,4,3,3,4,4,2,2,3,5,2,3,1,5,5,3,3,5,4,4,3,4,4,3,4,5,4,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,3,5,4,4,4,5,3,4,5,3,4,4,1,1,2,2,2,2,1,1,3,4,3,2,1,2,2,2,1,1
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,3,2,3,1,2,3,2,3,3,3,3,3,2,3,3,2,3,3,2,3,3,2,2,2,2,2,2,2,2
+Bangladesh,Female,25-34,Bachelor Degree,Often,3,4,5,3,4,5,5,5,3,5,5,5,3,4,3,4,2,4,5,5,2,4,4,5,5,5,5,3,2,5
+Bangladesh,Male,25-34,Master Degree,Very often,5,5,5,5,5,5,5,5,5,3,3,3,4,5,5,3,3,2,5,4,5,5,4,5,4,5,4,4,5,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,2,5,4,3,3,4,4,4,3,4,4,4,3,4,3,4,4,3,4,4,4,3,4,4,4,3,4,3,3,3
+Bangladesh,Female,25-34,Master Degree,Sometimes,4,5,4,4,2,2,2,2,3,2,2,2,2,4,4,2,2,4,2,2,2,3,3,2,2,2,2,2,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,3,3,2,3,5,5,5,5,5,5,3,3,4,3,3,3,4,4,3,4,3,4,4,3,4,4,5,5,5
+Bangladesh,Male,25-34,Master Degree,Very often,3,5,4,5,5,3,4,4,3,4,3,5,2,4,4,2,3,5,5,2,5,4,3,5,3,4,4,3,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,5,5,5,4,5,5,5,5,5,5,5,5,5,5,5,3,3,3,3,3,3,3,3,3,5,5,5,3,3,3
+Bangladesh,Female,25-34,Master Degree,Often,4,4,4,4,4,4,4,4,4,4,4,4,2,2,2,2,2,2,2,2,2,4,4,4,3,3,3,2,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,3,4,3,3,4,3,3,4,4,3,3,4,3,4,4,3,3,4,3,5,5,4,3,4,3,4,4,3,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,4,4,4,4,3,4,2,4,4,4,3,2,3,2,2,3,4,4,4,2,4,3,4,4,4,4,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Often,4,5,4,3,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,4,5,5,5,5,5,5,5,5,5
+Bangladesh,Male,25-34,Master Degree,Sometimes,4,4,2,2,4,4,4,4,4,4,5,4,1,2,2,2,2,2,3,1,3,3,3,2,3,3,3,4,3,3
+Bangladesh,Female,18-24,Master Degree,Sometimes,4,4,4,4,4,4,4,4,4,4,5,5,4,4,4,4,4,4,4,4,4,3,4,4,3,3,3,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,3,4,4,2,4,3,2,3,4,3,2,2,2,2,2,3,3,3,3,3,2,3,2,2,2,3,1,2,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,3,3,4,4,4,3,4,3,4,4,3,4,4,2,3,3,3,4,3,3,3,4,4,4,3,4,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,2,4,4,2,3,4,5,5,2,2,2,2,3,4,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4
+Bangladesh,Male,25-34,Master Degree,Very often,4,5,4,4,4,3,4,2,4,4,5,4,4,5,4,2,3,5,4,4,4,5,4,4,4,5,4,2,2,4
+Bangladesh,Male,25-34,Master Degree,Very often,4,4,4,4,5,5,5,4,5,4,5,4,1,2,2,1,2,1,5,5,4,5,4,5,4,5,5,5,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,4,4,3,3,3,3,3,3,3,3,4,5,5,3,4,4,4,3,4,4,4,3,2,4,3,3,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,4,5,5,4,2,4,5,4,4,5,5,4,5,5,5,4,5,4,5,4,4,5,4,5,5,5,5,5,4
+Bangladesh,Male,25-34,Master Degree,Often,3,5,4,3,3,2,5,5,5,2,3,4,2,2,4,2,2,5,5,2,5,4,4,5,5,4,5,4,2,3
+Bangladesh,Male,25-34,Master Degree,Rarely,4,5,4,5,2,5,5,4,3,5,3,4,2,3,3,2,4,3,2,4,4,2,4,3,3,5,5,2,4,3
+Bangladesh,Male,25-34,Master Degree,Sometimes,5,4,4,5,2,3,5,3,5,4,3,5,2,5,5,3,3,4,3,4,3,3,4,4,4,5,5,3,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,5,4,4,5,4,5,2,4,4,4,4,3,4,3,4,5,4,5,5,2,3,4,5,4,4,4,2,5
+Bangladesh,Male,25-34,Master Degree,Often,3,3,4,4,3,4,4,5,5,3,3,4,3,4,5,2,4,5,3,5,4,4,5,3,3,4,4,3,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,3,3,3,4,5,4,3,4,5,4,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Very often,3,4,4,2,4,4,5,5,4,4,5,4,4,5,4,3,2,4,4,3,3,4,5,4,5,4,4,3,3,3
+Bangladesh,Male,25-34,Bachelor Degree,Often,1,2,1,2,5,3,3,5,1,3,1,2,1,5,1,1,2,1,1,3,2,1,3,1,1,3,3,1,3,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,3,4,4,5,3,3,5,4,4,5,5,4,4,4,5,5,5,4,5,5,5,5,4,5,5,5,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,4,4,4,3,3,3,4,4,4,3,4,2,2,3,3,4,5,4,4,4,4,4,4,4,4,4,2,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,4,2,3,4,3,4,3,3,2,4,4,3,4,2,2,3,3,4,4,3,3,3,3,4,3,2,2,3
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,5,4,4,4,5,2,4,4,3,2,3,3,5,5,2,4,2,2,3,4,4,5,4,2,4,4,2,3,2
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,5,2,2,4,5,5,4,1,3,4,1,3,4,4,2,3,2,2,3,2,3,2,2,3,4,2,1,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,4,2,2,2,2,3,2,2,2,4,4,4,2,4,2,4,4,4,4,2,4,4,4,4,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,5,5,5,2,4,4,5,4,3,5,5,5,5,5,5,3,3,3,2,2,3,3,3,5,5,5,5,2,2,2
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,4,4,3,3,4,4,3,4,4,3,2,2,3,4,4,2,2,2,3,4,4,3,3,4,4,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Very often,2,3,1,3,1,3,2,2,3,1,2,1,1,2,1,1,1,1,2,2,2,3,3,3,2,3,2,4,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,4,4,5,2,3,4,5,3,5,5,5,2,5,5,2,4,4,4,5,4,4,3,5,5,5,5,5,5,4
+Bahrain,Female,18-24,High School Diploma,Often,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,3,3,4,4,4,4,4,4,4,4,4,3,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,4,4,4,2,3,2,3,3,3,3,4,4,4,4,3,4,4,2,4,4,4,4,4,4,4,4,4,3
+Bangladesh,Male,18-24,Bachelor Degree,Rarely,4,3,4,4,3,4,4,3,4,3,4,3,3,4,4,4,4,4,3,4,4,3,3,3,3,4,4,3,3,3
+Bangladesh,Male,25-34,Master Degree,Very often,4,5,4,4,5,4,4,5,4,5,4,5,4,5,5,3,5,4,5,4,5,4,4,4,3,4,5,4,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Very often,5,5,5,4,2,5,4,4,5,5,4,5,5,3,3,1,3,3,4,4,4,2,2,4,4,4,3,2,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,4,4,2,4,3,2,4,2,2,2,3,3,3,3,4,2,3,4,3,2,2,4,4,3,3,4,2,4,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,5,5,5,4,2,2,2,2,2,2,4,2,4,4,4,5,2,4,2,5,4,3,4,5,5,5,5,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,5,5,4,4,2,2,2,4,4,4,4,4,5,4,4,4,5,5,4,5,4,4,4,4,4,5,5,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,5,4,2,3,4,3,4,4,3,1,3,3,4,4,2,2,2,2,3,2,3,3,4,3,2,3,3,2,1
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,3,4,2,3,3,3,3,3,3,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,5,4,4,2,4,4,5,4,3,4,3,5,4,5,5,5,4,3,3,4,2,2,1,4,2,2,2,2
+Bangladesh,Male,25-34,Bachelor Degree,Often,2,4,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,2,4,4,2,4,3,2,4,4,3,3,3,3,4,3,2,4,4,4,4,4,3,5,5,4,4,4,3,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,3,4,3,2,3,3,2,4,4,3,3,4,3,3,5,3,3,4,4,4,4,2,3,4,3,4,4,3,2,2
+Bangladesh,Male,25-34,Master Degree,Very often,3,4,3,3,4,2,2,2,2,2,2,2,4,4,4,2,4,4,2,2,4,3,4,4,2,4,4,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,1,3,1,1,1,2,1,2,1,1,1,1,1,1,2,3,1,3,1,1,1,1,1,1,2,1,3,1,1,1
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,4,4,4,4,4,5,4,2,4,4,2,4,4,4,4,4,4,4,4,4,4,5,4,3,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,4,3,5,4,4,3,5,3,4,4,5,3,3,4,5,3,4,5,3,5,4,3,4,5,3,4,5,3,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Very often,3,4,4,3,4,4,5,4,4,3,4,5,4,4,4,4,3,4,4,4,3,4,4,3,2,2,4,4,4,3
+Bangladesh,Female,18-24,Bachelor Degree,Very often,1,2,3,4,5,4,1,2,3,5,2,5,4,5,3,1,2,3,1,3,5,3,4,5,5,3,4,1,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1
+Bangladesh,Female,25-34,Master Degree,Very often,4,5,4,3,4,4,2,2,2,2,4,4,3,4,4,4,2,4,4,5,3,2,4,5,4,5,4,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,2,4,3,3,4,2,3,4,3,4,3,3,4,5,5,4,3,4,4,5,5,4,2,5,5,5,5,2,2,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,3,4,3,3,3,3,3,3,3,3,4,4,3,3,3,4,4,4,2,3,3,3,3,3,3,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,2,5,4,4,4,4,4,4,4,4,2,4,4,4,4,2,2,2,4,4,4,4,4,4,4,4,4,2,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,3,5,4,3,3,3,3,2,5,3,1,4,4,3,4,3,3,3,2,3,4,4,3,2,3,3,2,2,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,5,4,4,4,3,3,4,4,4,3,4,4,4,4,3,4,3,3,3,4,4,3,4,5,3,5,2,3,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,4,3,4,3,3,4,3,2,2,4,4,4,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,4,4,2,2,2,1,4,2,3,2,3,4,5,4,5,4,5,4,3,2,5,4,4,2,2,2,2,1,1
+Bangladesh,Male,25-34,Master Degree,Often,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4
+Bangladesh,Female,18-24,High School Diploma,Rarely,5,5,5,2,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,4,3,4,4,4,5,5,5,3,4,3,5,4,5,5,5,3,4,5,4,3,4,3,3,5,4,4,3
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,5,2,3,2,3,4,3,4,3,3,2,4,3,4,3,4,4,4,4,2,4,4,4,4,4,3,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Often,2,4,4,4,2,4,4,3,5,3,3,4,4,5,4,4,4,5,4,4,4,1,1,1,4,4,5,2,2,2
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,3,5,5,5,4,4,4,5,3,3,4,5,3,3,4,4,5,5,4,4,4,5,5,4,4,4,5
+Bangladesh,Female,18-24,High School Diploma,Very often,2,4,4,2,5,4,3,4,4,4,3,4,2,2,4,2,2,2,4,5,4,2,2,4,2,3,4,2,2,3
+Germany,Male,18-24,Bachelor Degree,Sometimes,4,5,4,5,4,5,4,5,4,4,4,5,4,5,5,4,4,5,4,5,4,4,5,4,4,5,4,4,5,4
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,4,4,5,5,4,5,4,4,2,2,2,3,1,2,3,5,5,5,5,5,5,5,5,5,5,5,4,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Very often,3,4,3,2,4,4,3,4,3,3,3,2,4,3,3,2,3,4,2,4,3,4,3,3,3,4,3,4,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,4,4,2,3,2,4,2,2,3,2,5,4,5,5,4,5,2,2,2,1,2,2,2,4,2,1,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,2,3,4,4,4,4,4,4,3,4,4,4,4,5,4,4,4,4,4,4,4,4,2,3,2,2,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,4,5,4,4,4,5,3,3,4,4,3,2,4,4,4,2,4,2,4,4,3,4,4,5,4,4,2,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,3,3,3,4,4,4,4,4,3,3,4,4,3,4,3,4,5,4,3,4,3,4,2,2,2,2,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,4,2,4,4,5,3,5,4,5,4,2,4,4,1,4,4,2,1,2,4,5,1,1,2,3,2,1,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,4,4,3,3,3,3,5,4,3,3,3,3,5,4,4,3,4,4,3,4,3,3,4,4,5,4,3,2,3
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,1,1,2,1,2,3,1,2,3,1,2,3
+Bangladesh,Male,25-34,Master Degree,Often,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,3,5,5,5,4,3,5,4,5,4,5,5,4,4,5,4,5,3,4,3,4,4,3,5,4,3,4,4,3
+Bangladesh,Female,18-24,High School Diploma,Sometimes,3,2,2,1,1,2,3,4,3,2,3,3,1,2,4,2,2,1,1,2,2,3,4,1,3,2,2,3,3,2
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,1,3,2,2,3,1,3,3,1,1,3,1,1,2,2,2,3,1,1,3,1,3,1,1,1,1,2,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,4,3,2,3,3,3,1,3,4,2,4,4,5,2,2,4,4,3,3,3,2,4,3,3,2,3,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,5,4,3,4,4,4,5,5,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,4,4,3,4,4,4,3,3,3,3,4,4,5,2,5,4,5,5,5,3,3,4,4,4,4,4,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,4,3,4,3,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,3,3,4,3
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,1,5,4,4,3,2,5,5,1,2,4,4,4,2,2,2,3,2,4,4,2,2,2,4,2,2,2,5
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,1,2,1,2,1,2,1,1,2,1,1,1,2,2,2,2,2,2,3,3,1,3,2,2,1,2,1,1,2,1
+Bangladesh,Female,25-34,Bachelor Degree,Very often,4,5,5,4,5,4,3,3,4,5,3,4,5,3,4,5,4,3,5,4,3,4,5,3,4,5,3,5,4,3
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,5,3,2,3,1,2,4,5,2,1,3,2,5,4,3,4,5,2,4,2,4,3,5,5,4,3,4,2,5
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,4,4,3,4,5,3,4,5,3,4,5,3,4,5,4,5,4,3,5,4,3,4,4,4,3,4,5,4,3
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,4,4,4,3,4,2,4,3,2,2,4,2,3,2,2,4,4,4,4,4,2,2,3,4,4,4,4,2,5
+Bangladesh,Male,25-34,Bachelor Degree,Often,4,5,5,5,5,5,3,3,5,5,4,5,3,5,5,2,4,2,2,4,3,4,3,4,2,3,2,4,4,2
+Bangladesh,Female,18-24,Bachelor Degree,Very often,5,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,4,4,2,2,2,4,4,4,4,4,4,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,1,3,2,1,1,1,2,3,4,4,4,3,4,4,4,3,3,2,2,1,3,1,1,3,2,2,1,1,2,2
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,5,5,5,4,3,3,4,4,4,4,4,2,2,2,2,2,2,2,2,2,2,4,2,2,2,2,2,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,4,2,2,4,3,2,2,2,2,2,5,3,4,4,1,2,4,2,2,4,2,3,4,2,3,2,3,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,4,4,4,3,4,4,3,4,3,3,3,2,3,3,4,4,4,3,2,3,3,3,2,2,2,3,3,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,4,3,4,5,4,4,5,5,5,4,4,4,4,4,4,4,4,4,3,4,5,4,3,4,4,3,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,4,3,3,3,4,1,4,3,3,3,4,3,1,3,1,3,2,3,4,4,1,2,3,2,2,2,3,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,5,5,5,4,5,5,5,5,4,4,5,5,3,2,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Rarely,4,4,5,4,4,4,4,5,5,5,5,4,4,4,4,4,5,4,5,4,5,4,4,5,5,4,5,5,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Rarely,3,3,3,5,4,4,2,3,3,2,3,3,2,3,2,3,1,3,3,3,3,4,4,3,4,4,4,4,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,5,5,5,2,5,5,5,5,5,5,3,2,5,5,5,2,2,5,4,4,4,1,2,5,3,5,5,2,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,3,4,3,4,4,4,4,4,4,4,4,4,2,3,3,4,5,4,2,2,2,3,3,1,3,2,3,3,4,4
+Bangladesh,Female,18-24,High School Diploma,Often,4,4,4,4,4,3,3,4,4,3,3,3,3,3,3,2,2,2,4,4,3,4,3,3,4,4,3,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,5,5,4,4,5,5,4,4,4,4,4,4,5,5,4,5,4,4,4,4,5,3,4,5,5,5,3,4,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,5,4,4,3,4,4,3,2,5,4,4,5,4,1,2,5,4,5,4,3,2,5,4,4,4,4,4,4
+Bangladesh,Female,25-34,Master Degree,Often,4,5,5,3,4,2,4,5,4,4,5,4,4,3,4,2,2,5,4,5,5,4,4,5,5,5,5,4,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,4,3,4,5,5,5,3,5,2,2,4,3,4,3,4,4,4,4,2,4,4,2,4,4,4,3,3,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,5,4,4,5,5,2,2,5,4,5,5,1,4,5,1,4,5,5,4,5,1,1,5,5,5,5,2,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,4,3,4,4,5,4,4,4,3,4,5,4,3,3,4,4,4,4,4,3,4,4,5,4,5,3,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,5,4,3,3,2,1,4,4,1,2,3,3,3,3,3,3,2,2,3,3,3,3,3,3,3,4,4,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,5,5,3,4,3,3,2,2,2,3,4,2,3,4,4,2,5,4,2,2,2,2,4,4,2,2,3,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Rarely,1,2,3,5,3,2,1,3,2,1,2,2,2,2,2,1,3,5,3,3,3,1,2,1,1,1,4,1,2,3
+Bangladesh,Female,25-34,Master Degree,Sometimes,2,3,4,3,3,4,4,5,4,2,4,3,4,3,5,2,2,4,3,2,5,4,4,4,4,4,4,2,2,2
+Bangladesh,Female,25-34,Master Degree,Sometimes,4,5,4,4,4,4,4,4,4,4,5,2,4,4,3,2,2,4,4,4,4,4,2,2,4,4,4,3,2,4
+Bangladesh,Male,35-44,Master Degree,Sometimes,2,4,4,4,3,2,4,4,4,3,3,5,3,2,4,4,4,5,4,4,5,5,4,3,2,4,4,4,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,5,4,4,3,3,4,4,4,3,3,4,3,4,5,4,3,4,4,5,4,4,3,4,4,5,4,5,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,2,4,4,2,4,4,2,3,3,2,2,3,3,4,3,5,4,4,3,3,4,4,4,4,4,5,3,3,2,3
+Bangladesh,Female,35-44,Bachelor Degree,Rarely,3,1,3,1,5,5,5,1,3,5,5,5,5,5,5,1,1,2,1,5,5,3,4,5,1,3,5,2,1,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,5,3,2,4,5,3,5,2,1,4,3,4,3,5,2,1,3,4,3,2,4,3,5,4,5,3,4,3,2
+Bangladesh,Male,18-24,High School Diploma,Very often,2,4,4,4,4,4,4,2,4,2,4,4,3,4,4,2,2,3,4,3,4,2,4,4,4,2,4,4,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Very often,2,4,2,2,5,4,2,4,2,4,4,4,2,4,4,2,2,4,4,2,2,4,2,4,4,4,4,3,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,4,4,4,1,3,3,4,5,5,5,5,2,2,4,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,3,5,3,2,4,4,3,2,3,3,3,4,5,5,3,4,4,4,3,4,4,4,1,4,2,2,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,5,5,3,4,5,5,5,4,5,4,1,2,3,4,3,4,3,3,3,3,3,2,2,2,2,3,3,2,3
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,5,3,4,5,4,3,3,5,5,3,3,3,4,4,5,5,4,3,3,4,4,4,3,5,2,3,3,2,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,3,4,5,5,5,4,4,5,3,5,2,5,5,4,2,3,2,2,3,2,2,2,2,2,2,1,1,4
+Bangladesh,Female,35-44,Bachelor Degree,Sometimes,4,5,4,5,3,5,4,4,5,3,3,4,2,1,2,5,3,4,2,2,2,2,5,4,3,4,5,1,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,5,5,5,4,5,5,4,3,5,3,5,2,3,4,2,2,2,4,4,4,3,4,4,5,5,5,4,4,3
+Bangladesh,Female,18-24,Bachelor Degree,Very often,2,4,4,4,3,4,4,3,4,4,4,4,3,4,4,4,4,4,4,3,3,2,3,4,4,4,4,4,3,3
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,4,3,3,3,1,4,4,4,4,4,2,5,4,4,4,4,4,4,2,1,2,3,4,2,3,3,3,4
+Bangladesh,Female,25-34,Bachelor Degree,Sometimes,4,4,5,4,3,2,4,5,4,4,2,2,2,4,4,2,4,4,4,4,4,4,4,4,5,5,5,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,2,4,4,2,4,4,4,4,3,3,4,2,4,4,4,3,4,4,4,5,2,2,4,4,4,4,4,4,4,4
+Bangladesh,Male,35-44,Bachelor Degree,Very often,5,5,4,2,2,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,2,1,2
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,5,4,5,3,4,2,4,4,4,5,4,2,2,2,3,2,4,2,3,4,4,5,5,5,5,5,4,4,4
+Bangladesh,Male,18-24,High School Diploma,Often,2,4,3,3,4,4,2,4,4,3,4,3,4,2,4,4,3,2,4,3,3,4,4,4,4,3,3,3,3,3
+Bangladesh,Male,25-34,Bachelor Degree,Sometimes,1,1,3,1,5,5,5,3,4,4,4,4,4,3,5,1,2,3,1,1,2,2,3,1,2,3,1,4,3,2
+Bangladesh,Female,18-24,High School Diploma,Very often,5,5,5,4,5,4,5,5,5,5,4,5,4,5,3,5,1,3,5,5,3,5,4,5,5,5,5,2,1,2
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,2,2,2,2,2,3,3,2,2,3,3,4,4,4,4,1,2,2,2,2,4,4,3,4,2,3,2,2,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,5,5,5,4,4,3,4,5,4,3,3,3,2,4,4,4,4,3,4,4,5,4,4,5,2,4,2,2,1,4
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,4,3,4,4,3,4,3,3,2,2,2,4,4,3,1,2,4,3,4,4,4,3,4,5,4,4,3,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,4,5,4,4,4,4,4,4,4,4,4,5,4,4,4,4,5,4,5,4,5,4,3,4,3,3,5,4
+Bangladesh,Male,25-34,Bachelor Degree,Very often,4,4,3,4,3,4,5,5,4,5,4,5,4,5,4,3,4,5,5,4,3,4,4,5,5,4,5,4,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,4,4,2,4,3,2,4,3,2,3,4,1,2,3,2,2,3,2,3,2,3,3,2,2,2,1,1,2,2
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,3,5,3,3,2,4,4,4,4,4,4,3,3,3,2,1,3,4,3,2,2,2,3,2,1,3,1,3
+Bangladesh,Male,25-34,Bachelor Degree,Very often,5,5,4,5,5,4,5,4,5,4,5,4,5,3,5,5,3,4,5,4,5,4,5,4,5,5,5,5,5,5
+Bangladesh,Male,25-34,Bachelor Degree,Very often,5,4,5,5,4,5,4,4,5,1,5,4,4,3,5,5,3,5,4,3,4,4,5,3,5,5,5,5,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Very often,2,4,4,2,4,3,4,4,5,4,3,3,3,5,4,2,2,4,2,3,2,2,1,2,2,2,1,1,1,4
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,3,4,4,3,2,3,2,4,4,2,4,3,3,4,2,4,4,4,4,3,4,4,3,5,4,4,4,4,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,4,5,2,3,4,4,3,4,3,3,2,3,4,3,3,4,4,4,3,2,2,4,3,3,4,4,2,2,3
+Bangladesh,Male,35-44,Bachelor Degree,Rarely,3,2,2,4,3,3,1,4,5,4,2,2,3,3,3,2,1,4,2,4,3,3,4,3,4,4,3,2,2,5
+Bangladesh,Female,35-44,Bachelor Degree,Very often,4,4,5,3,3,4,3,4,3,4,3,5,4,5,5,4,3,5,4,5,4,3,4,5,4,5,4,3,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,5,4,3,4,5,5,4,5,4,4,4,4,3,3,4,5,4,4,4,4,5,4,4,4,5,4,4,5,4
+Brazil,Male,18-24,Bachelor Degree,Very often,5,4,3,3,5,4,4,1,2,3,1,2,2,1,1,4,5,5,5,4,4,2,3,2,4,4,4,5,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,3,3,3,3,3,4,4,3,3,3,3,3,3,3,3,3,4,3,3,3,3,4,2,3,3,2,1,2
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,2,3,4,4,4,4,2,4,4,4,4,4,2,2,2,2,4,4,4,5,5,5,5,4,4,3,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,5,4,5,4,4,5,4,5,4,5,5,4,4,5,4,5,4,4,4,5,4,5,4,4,4,5,4,5,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,2,3,4,2,5,4,4,4,3,4,4,4,3,4,4,2,2,4,2,4,3,4,2,3,2,4,3,2,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,4,2,4,4,4,5,4,5,4,4,4,5,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4
+Bangladesh,Male,18-24,High School Diploma,Often,5,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,3,4,4,4,4,4,5,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,4,5,4,4,5,4,5,4,3,4,4,4,4,4,5,4,3,4,4,4,4,4,4,5,4,4,4,4,4
+Bangladesh,Female,25-34,Master Degree,Often,4,4,5,4,4,4,3,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,5,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,4,4,4,5,4,4,5,4,5,4,4,4,4,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4
+Bangladesh,Male,35-44,High School Diploma,Sometimes,3,3,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,5,4,4,4,4,3,4,4,4,4,4,2,3,4,4,4,4,4,4,4,3,4,4,4,4,4,4,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,5,3,5,4,5,4,3,5,4,4,5,3,5,5,4,4,5,4,5,5,4,4,4,4,5,4,3,5,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,2,3,2,3,2,3,2,3,2,2,3,3,3,3,4,3,4,4,5,4,4,3,4,3,2,4,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,4,5,4,5,3,5,5,4,4,4,4,4,5,5,5,4,3,4,5,5,4,4,5,5,5,4,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,4,5,5,4,5,4,4,5,4,5,4,4,5,4,4,5,4,3,2,3,3,3,2,4,4,5,4,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,3,5,4,4,5,5,4,3,4,4,5,4,5,4,5,4,4,3,4,4,5,4,5,4,4,5,5,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,3,4,4,5,4,5,4,5,4,4,4,5,4,4,5,4,4,5,4,4,4,5,2,2,3,2,3,2
+Bangladesh,Male,25-34,Bachelor Degree,Often,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,5,5,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,5,4,4,5,4,5,4,5,3,4,5,4,4,3,5,4,5,4,5,4,4,5,4,3,4,5,4,3,5
+Bangladesh,Female,25-34,Bachelor Degree,Often,4,4,4,4,3,3,4,4,4,4,3,4,4,4,4,2,4,4,4,4,4,4,3,3,4,4,4,4,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,3,4,2,3,2,1,4,4,1,4,5,2,4,4,4,5,3,4,5,4,3,1,2,3,4,4,2,4,3
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,4,5,4,5,4,5,4,4,5,4,4,4,4,5,5,4,5,5,4,4,3,4,5,4,4,5,4,4,5,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,4,5,3,3,4,3,5,3,5,4,3,2,3,1,2,3,3,3,4,5,5,3,5,3,3,5,3,5,4
+Bangladesh,Female,35-44,Bachelor Degree,Often,5,5,5,4,4,4,5,3,4,5,4,5,3,4,4,3,3,4,4,5,4,2,4,3,4,4,3,2,2,2
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,5,4,5,3,2,3,2,2,1,3,2,4,5,4,3,2,4,3,4,4,2,3,4,3,4,4,4,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,4,3,3,4,3,4,4,3,3,4,4,3,4,4,3,4,3,4,3,4,4,4,5,3,4,2,2,3
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,5,4,2,4,2,3,2,2,2,2,4,4,4,2,2,2,4,2,2,2,2,2,4,4,4,2,2,2
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,4,3,4,3,4,3,3,3,2,3,2,4,5,5,5,4,5,4,3,4,2,2,3,2,2,3,2,2,1
+Bangladesh,Female,25-34,Bachelor Degree,Very often,5,5,4,3,4,5,5,4,4,5,3,4,4,5,5,3,4,5,4,5,4,5,3,4,3,5,4,3,3,5
+Bangladesh,Male,25-34,Bachelor Degree,Rarely,1,2,2,3,2,3,3,1,3,2,2,2,2,2,1,1,2,3,2,3,3,3,3,3,2,2,1,1,3,3
+Bangladesh,Male,25-34,Bachelor Degree,Very often,3,4,4,4,5,5,5,5,5,5,4,4,4,4,4,2,2,2,4,4,4,2,2,2,4,4,4,4,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Very often,4,5,5,4,5,4,4,4,5,4,4,5,3,3,2,4,4,5,3,2,2,4,4,5,2,3,2,4,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Often,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,5,4,4,4,4,3,4,4,5,4,4,4,5,5,3,3,4,4,4,3,3,3,4,3,3,4,4,4,3
+Bangladesh,Female,25-34,Bachelor Degree,Often,4,4,4,5,4,5,4,4,4,5,5,5,2,4,5,4,4,5,4,4,4,5,4,4,5,4,4,4,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Often,4,5,5,4,3,4,5,4,3,5,4,3,5,3,4,4,3,5,5,4,3,2,4,5,5,5,5,3,5,5
+Bangladesh,Male,35-44,Master Degree,Very often,5,5,5,5,4,4,4,4,4,3,4,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4
+Bangladesh,Female,25-34,Bachelor Degree,Very often,5,5,5,5,4,4,5,5,5,5,4,5,4,4,3,3,4,5,4,3,3,5,5,5,5,5,5,4,5,5
+Bangladesh,Female,25-34,Bachelor Degree,Very often,3,5,5,5,1,1,5,5,5,1,1,1,5,5,5,5,5,5,5,5,1,5,5,5,5,5,5,5,5,5
+Bangladesh,Female,25-34,Bachelor Degree,Often,4,5,4,5,4,4,4,2,5,4,3,2,2,4,5,4,4,5,5,4,4,3,5,4,4,5,4,4,5,4
+Bangladesh,Male,35-44,Bachelor Degree,Often,4,4,4,4,4,4,4,4,4,4,4,4,2,4,4,3,3,4,2,2,3,3,4,4,3,4,4,3,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Very often,5,5,5,4,4,5,5,3,5,5,5,5,5,5,4,4,3,5,5,5,5,5,5,5,4,5,5,5,5,5
+Bangladesh,Male,25-34,Bachelor Degree,Very often,3,4,5,4,4,5,4,4,3,4,4,4,5,4,4,3,4,4,5,4,4,4,3,4,4,3,4,5,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,5,4,3,4,4,3,3,4,4,4,4,2,4,4,2,4,3,4,4,3,3,2,4,5,3,5,4,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Often,4,4,5,3,5,4,5,4,3,4,5,4,4,5,4,3,5,4,3,4,4,5,5,4,4,5,4,3,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,5,5,5,5,5,5,2,4,4,4,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5
+Bangladesh,Male,25-34,Bachelor Degree,Often,4,4,5,4,4,3,4,5,4,5,4,4,3,4,4,5,4,4,2,3,5,3,4,5,4,4,5,2,3,2
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,4,3,4,4,4,3,4,2,2,4,4,4,4,2,2,2,2,2,2,3,3,3,2,2,2,2,2,2
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,4,5,3,3,3,3,3,3,3,3,3,3,4,4,5,4,4,3,3,3,3,3,3,3,4,4,3,3,3
+Bangladesh,Male,25-34,Bachelor Degree,Very often,4,4,5,5,4,3,5,5,4,1,3,1,4,5,5,4,3,5,3,2,3,4,3,5,2,4,2,2,1,2
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,5,3,3,4,5,4,3,4,3,4,5,4,5,4,3,3,4,3,3,3,3,2,3,4,3,2,4,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,4,3,2,2,2,3,2,4,2,3,3,3,4,2,2,3,3,4,2,3,2,3,3,4,4,3,3,4
+Bangladesh,Female,25-34,Bachelor Degree,Often,2,2,2,2,2,2,2,2,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Very often,3,4,4,5,3,4,2,2,5,5,3,4,2,4,4,3,1,5,1,3,2,3,3,4,3,2,4,5,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,2,4,2,2,4,5,4,4,4,3,4,4,2,5,5,2,2,4,2,4,2,4,4,4,2,2,2,2,2,2
+Bangladesh,Female,18-24,High School Diploma,Sometimes,5,5,5,3,3,3,3,5,4,2,2,3,2,3,4,4,4,3,4,4,4,3,4,4,5,5,5,5,3,5
+Bangladesh,Female,25-34,Master Degree,Often,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Very often,4,5,5,4,5,4,4,5,4,4,4,5,2,4,4,4,5,5,2,4,4,2,1,4,2,2,1,2,4,4
+Bangladesh,Male,25-34,Bachelor Degree,Sometimes,1,2,3,5,3,2,1,5,5,5,4,4,2,2,3,2,3,2,3,2,3,3,3,2,1,2,3,1,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,5,3,5,5,2,3,4,5,5,5,5,4,4,5,4,5,4,5,4,5,4,4,4,4,3,5,4,3
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,4,5,4,3,4,5,4,3,4,5,4,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5,3,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,3,2,5,1,3,1,3,1,3,1,3,1,2,1,1,3,1,2,2,1,2,3,3,2,2,2,2,3,3
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,4,5,4,3,5,4,4,5,4,5,5,5,4,5,5,5,4,5,4,4,4,5,4,5,5,5,5,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,4,3,4,4,5,3,3,5,4,4,5,4,5,3,5,4,3,3,5,5,4,4,5,3,4,5,4,3,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,4,4,3,5,4,3,4,5,4,3,3,5,4,4,5,5,4,5,3,4,5,4,4,5,4,4,5,4,3
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,4,4,4,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,3,4,2,3,4,3,4,3,3,4,3,3,3,4,4,3,3,5,5,4,5,5,4,5,5,4,4,5,4,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,4,5,4,5,4,5,5,4,4,5,3,5,4,5,4,5,5,5,5,4,5,3,3,5,4,4,5,4
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,4,3,4,5,4,5,4,5,4,5,4,5,5,5,5,5,4,5,5,3,4,5,5,5,5,3,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,4,5,4,5,4,5,4,4,5,4,4,5,5,4,5,5,5,4,5,5,5,5,5,5,5,5,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,5,5,5,5,5,5,5,5,5,5,4,3,5,4,4,5,5,3,5,5,5,5,5,4,4,5,5,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,4,4,4,5,5,5,5,5,5,5,5,4,4,4,5,5,5,4,4,4,4,4,4,5,5,5,5,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Rarely,5,4,4,5,5,5,4,5,5,5,4,5,5,5,5,3,5,4,4,4,5,5,5,4,4,4,5,5,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,4,3,4,3,4,4,4,5,4,4,5,4,4,3,4,4,4,4,5,4,3,5,4,4,5,3,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Very often,4,4,3,4,5,4,5,4,5,5,4,3,3,4,5,3,4,4,5,4,4,5,5,4,3,4,4,5,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Often,4,5,4,5,4,3,5,3,5,4,5,5,3,3,4,4,3,5,3,4,3,3,4,4,4,4,3,3,5,4
+Bangladesh,Male,18-24,Bachelor Degree,Rarely,5,5,4,3,3,3,3,3,3,3,1,3,5,5,5,2,1,3,3,3,3,3,3,3,3,2,2,3,3,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,5,4,4,5,5,4,5,5,4,5,4,4,5,4,3,5,4,4,5,4,4,5,4,3,5,4,4,5,4,5
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,4,3,5,5,4,4,5,5,4,5,5,4,5,5,4,5,5,4,4,3,5,4,5,4,5,4,5,4,4
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,3,4,3,3,4,5,5,4,4,4,5,4,4,5,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,5,3,5,3,5,4,4,5,5,4,5,3,4,5,3,4,5,3,4,4,4,5,4,4,5,3,4,4,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,5,4,4,5,4,5,3,4,4,5,3,4,4,4,5,4,4,5,5,4,4,4,3,4,4,4,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,5,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,5,3,4,4,5,3,4,4,5,4,3,5,4,3,5,4,3,5,4,4,4,5,3,5,4,5,3,4,5
+Bangladesh,Female,18-24,Master Degree,Often,5,5,5,5,4,5,4,5,5,4,4,5,4,5,5,4,5,5,5,4,5,5,4,5,5,4,4,5,5,5
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,4,5,4,3,4,3,4,5,5,4,4,5,4,4,4,3,4,3,3,4,5,4,4,4,4,5,4,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,1,3,1,2,2,1,1,1,1,1,1,1,1,1,1,2,2,1,2,1,1,1,1,1,2,1,1,1,1,2
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,3,3,4,3,3,4,4,3,3,4,4,3,3,4,4,3,3,4,5,3,4,5,4,4,3,5,5,3
+Bangladesh,Male,25-34,Bachelor Degree,Often,1,2,2,1,1,2,3,1,2,2,1,2,2,2,3,1,2,2,3,2,1,1,2,2,2,1,2,3,1,3
+Bangladesh,Male,18-24,Bachelor Degree,Very often,4,4,4,4,3,4,4,4,3,5,5,5,4,4,4,4,4,4,4,4,4,3,3,3,4,5,5,5,5,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,2,2,2,3,2,2,3,2,4,4,3,4,4,2,3,4,2,2,3,3,4,4,2,4,4,3,2,2
+Bangladesh,Male,18-24,Bachelor Degree,Very often,1,2,1,2,2,3,3,2,2,2,2,3,2,1,3,4,3,1,3,2,4,3,1,3,2,1,2,2,3,2
+Bangladesh,Male,18-24,Bachelor Degree,Sometimes,1,2,3,2,2,2,1,2,3,1,2,1,1,2,3,2,2,2,2,4,4,3,1,2,2,2,1,1,2,1
+Bangladesh,Male,18-24,Bachelor Degree,Often,1,2,1,2,2,3,2,2,3,2,3,3,1,2,1,1,4,4,4,3,3,2,3,3,5,4,3,4,5,4
+Bangladesh,Male,25-34,Master Degree,Sometimes,1,3,2,1,2,4,4,2,3,5,3,4,1,3,2,3,2,5,2,3,5,3,2,3,3,2,2,3,2,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,3,5,3,3,2,4,3,5,4,2,3,3,3,5,5,3,4,3,5,4,4,4,3,4,1,1,1,1,1,1
+Bangladesh,Female,25-34,PhD,Very often,1,3,2,1,2,2,3,3,2,2,3,3,3,4,5,4,3,1,1,4,5,1,2,3,3,4,3,3,3,4
+Bangladesh,Male,18-24,Bachelor Degree,Often,3,3,5,5,2,4,5,4,3,2,4,5,3,2,4,3,2,4,3,2,4,3,2,3,2,4,3,3,4,5
+Bangladesh,Male,18-24,Bachelor Degree,Often,2,4,2,3,3,2,4,5,3,2,4,4,2,3,4,4,3,2,3,3,2,3,4,4,3,4,5,4,3,1
+Bangladesh,Male,18-24,Bachelor Degree,Very often,1,3,3,2,2,4,2,3,3,3,2,1,2,3,4,3,5,4,3,3,2,3,4,5,3,4,5,4,3,2
+Bangladesh,Female,18-24,High School Diploma,Very often,4,5,4,4,5,4,4,4,2,3,3,2,4,3,4,1,1,4,3,4,4,2,1,3,2,2,1,2,2,4
+Bangladesh,Male,25-34,Master Degree,Rarely,2,4,2,2,4,4,4,4,4,4,5,5,2,5,4,4,4,4,2,5,2,4,4,5,2,5,2,2,1,5
+Bangladesh,Male,25-34,Bachelor Degree,Sometimes,2,4,3,3,4,3,4,2,2,4,4,4,1,5,4,3,3,4,2,2,4,4,4,2,4,4,2,2,1,3
+Bangladesh,Male,25-34,Bachelor Degree,Sometimes,5,4,3,3,4,4,4,4,4,3,4,3,4,4,4,3,4,4,2,4,4,4,4,4,4,4,2,4,4,4
+Bangladesh,Male,18-24,High School Diploma,Often,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2,2,2,4,4,2,4,4,2,2,4,4,2,4,2,2
+Bangladesh,Male,18-24,High School Diploma,Sometimes,2,2,3,2,2,1,3,2,4,3,4,4,2,3,3,2,2,3,3,2,2,3,2,2,2,3,2,3,3,2
+Bangladesh,Male,25-34,Bachelor Degree,Sometimes,4,4,4,4,2,2,4,4,4,4,4,4,3,3,2,3,3,2,3,2,2,3,3,2,3,4,4,3,2,3
+Bangladesh,Female,18-24,Bachelor Degree,Often,4,5,4,5,3,4,5,3,5,4,5,4,4,5,4,4,4,5,3,4,4,4,4,5,5,4,4,4,5,5
+Bangladesh,Female,25-34,PhD,Very often,1,3,2,1,2,2,3,3,2,2,3,3,3,4,5,4,3,1,1,4,5,1,2,3,3,4,3,3,3,4
+Bangladesh,Female,18-24,Bachelor Degree,Sometimes,4,4,3,3,4,3,3,4,4,3,3,4,4,3,3,4,4,3,3,4,5,3,4,5,4,4,3,5,5,3
+Bangladesh,Female,18-24,High School Diploma,Sometimes,5,5,5,3,3,3,3,5,4,2,2,3,2,3,4,4,4,3,4,4,4,3,4,4,5,5,5,5,3,5
+Bangladesh,Male,25-34,Bachelor Degree,Sometimes,2,4,3,3,4,3,4,2,2,4,4,4,1,5,4,3,3,4,2,2,4,4,4,2,4,4,2,2,1,3
+Bangladesh,Female,25-34,Master Degree,Often,3,4,4,4,3,4,3,4,4,4,4,4,3,3,3,3,4,3,4,4,4,4,4,3,3,4,3,3,4,3
+,,,,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+,,,,,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5
+,,,,,0.92005519,0.624191759,0.787418049,0.948101254,0.856279703,0.872872873,0.936215495,0.808051295,0.881421963,0.967886806,0.931363796,0.897419942,0.915636357,0.839415993,0.745826908,0.989043097,0.942942943,0.857019181,0.920812705,0.898682466,0.880790701,0.899421944,0.89875461,0.882882883,0.985580175,0.826682538,0.990017044,0.996185375,1.041528015,0.900143387
+,,,,,3.540540541,4.072072072,3.786786787,3.492492492,3.582582583,3.666666667,3.528528529,3.708708709,3.675675676,3.504504505,3.483483483,3.60960961,3.258258258,3.714714715,3.801801802,3.261261261,3.333333333,3.693693694,3.435435435,3.531531532,3.564564565,3.408408408,3.456456456,3.666666667,3.477477477,3.717717718,3.576576577,3.249249249,3.225225225,3.63963964
