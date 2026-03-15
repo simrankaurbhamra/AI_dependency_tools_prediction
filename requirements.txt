@@ -8,3 +8,4 @@ altair
 plotly
 jsonschema
 matplotlib
+python
