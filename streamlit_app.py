@@ -5,6 +5,7 @@ import json
 import math
 import matplotlib.pyplot as plt
 import charts
+import xgboost as xgb
 st.set_page_config(page_title="AI Overdependence Predictor (Gauge A)", layout="wide")
 
 st.markdown(
@@ -23,7 +24,8 @@ st.markdown(
 MODEL_PATH = "models/xgb_over_model_noleak_v2.pkl"
 SCALER_PATH = "models/scaler_noleak_v2.pkl"
 FEATURES_CSV = "data/features_header_noleak_v2.csv"
-MODEL = joblib.load(MODEL_PATH)
+MODEL = xgb.XGBRegressor()
+MODEL.load_model("models/xgb_model.json")
 SCALER = joblib.load(SCALER_PATH)
 FEATURES = list(pd.read_csv(FEATURES_CSV).columns)
 
